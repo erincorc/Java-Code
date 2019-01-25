@@ -1,5 +1,4 @@
-// Name: Erin Corcoran
-// Partner: Will Peters
+// This program implements a maximum priority queue
 
 import java.util.LinkedList;
 import java.util.Queue;
