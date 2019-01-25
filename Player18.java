@@ -1,7 +1,4 @@
-// file: Player*.java
-// authors: Erin Corcoran & Will Peters
-// date: April 29, 2018
-//
+
 // purpose: A client which makes moves in dots & boxes.
 
 
