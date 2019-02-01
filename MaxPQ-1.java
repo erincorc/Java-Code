@@ -155,7 +155,8 @@ private void printLevelOrder(Node root)
   public static void main(String[] args){
 
     MaxPQ<Integer> newPQ= new MaxPQ<Integer>();
-
+    
+    // Testing priority queue:
     newPQ.insert(10);
     newPQ.insert(100);
     newPQ.insert(5);
